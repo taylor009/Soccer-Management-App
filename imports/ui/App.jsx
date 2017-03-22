@@ -28,7 +28,7 @@ const tempPlayer = {
   gameStrategy: 1,
   playmakingRisks: 2,
   notes: "This player is only temporary",
-};
+}
 
 export default class App extends Component {
   constructor(props) {

@@ -1,6 +1,6 @@
 # Soccer-Management-App
 
-##Getting project up and running:
+Getting project up and running:
 
 1. git clone repo
 2. npm install
